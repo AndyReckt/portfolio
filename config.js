@@ -1,11 +1,11 @@
 export default {
   about: {
     image:
-      "https://cdn.discordapp.com/avatars/726953781903884388/8b007da4226e040487bb1e801bce5626.png?size=2048",
+      "https://cdn.discordapp.com/avatars/358630351343714304/b183890b0d74dbbc9fef9289b906fa00.png?size=2048",
     name: "Alexandre NEDE",
     job: "Étudiant",
     description:
-          "Bonjour, je suis NEDE Alexandre, j'ai 18 ans, et je suis étudiant en BTS SIO.",
+       "Bonjour, je suis NEDE Alexandre, j'ai 18 ans, et je suis étudiant en BTS SIO.",
     socialLinks: [
       {
         name: "Github",
